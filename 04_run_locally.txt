@@ -1,0 +1,5 @@
+terminal1
+testrpc -m "between gold proof laugh toddler summer screen error lesson salute cricket better"
+terminal2
+geth attach http://localhost:8545
+loadScript("C:/Users/Antona/dapps/private_network/src/storeDataContract.js");

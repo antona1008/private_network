@@ -1,0 +1,4 @@
+testrpc
+Mnemonic:      between gold proof laugh toddler summer screen error lesson salute cricket better
+testrpc -m "between gold proof laugh toddler summer screen error lesson salute cricket better"
+--> same addresses will be generated
