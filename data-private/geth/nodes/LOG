@@ -1,0 +1,13 @@
+=============== Feb 21, 2018 (CET) ===============
+14:45:34.321129 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:45:34.360158 db@open opening
+14:45:34.364160 version@stat F·[] S·0B[] Sc·[]
+14:45:34.372165 db@janitor F·2 G·0
+14:45:34.373166 db@open done T·13.0078ms
+14:57:00.312324 memdb@flush N·41861 S·3MiB
+14:57:00.475430 memdb@flush created L0@3 N·41861 S·1MiB "n:\x00..ing,v16059":"version,v1"
+14:57:00.475430 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+14:57:00.478434 memdb@flush committed F·1 T·165.11ms
+14:57:00.482437 journal@remove removed @1
+14:58:02.866310 db@close closing
+14:58:02.871299 db@close done T·4.9886ms
